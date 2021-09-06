@@ -1,0 +1,431 @@
+Test n 0
+Priority 0.00 :Privacy: 2 - KL-Divergence: 0.277 
+
+Priority 0.10 :Privacy: 2 - KL-Divergence: 0.195 
+
+Priority 0.20 :Privacy: 2 - KL-Divergence: 0.280 
+
+Priority 0.30 :Privacy: 2 - KL-Divergence: 0.219 
+
+Priority 0.40 :Privacy: 2 - KL-Divergence: 0.208 
+
+Priority 0.50 :Privacy: 2 - KL-Divergence: 0.290 
+
+Priority 0.60 :Privacy: 2 - KL-Divergence: 0.202 
+
+Priority 0.70 :Privacy: 2 - KL-Divergence: 0.245 
+
+Priority 0.80 :Privacy: 2 - KL-Divergence: 0.238 
+
+Priority 0.90 :Privacy: 2 - KL-Divergence: 0.194 
+
+Priority 1.00 :Privacy: 2 - KL-Divergence: 0.214 
+
+Priority 1.50 :Privacy: 2 - KL-Divergence: 0.201 
+
+Priority 2.00 :Privacy: 2 - KL-Divergence: 0.158 
+
+Priority 2.50 :Privacy: 2 - KL-Divergence: 0.203 
+
+Priority 3.00 :Privacy: 2 - KL-Divergence: 0.194 
+
+Priority 3.50 :Privacy: 2 - KL-Divergence: 0.137 
+
+Priority 4.00 :Privacy: 2 - KL-Divergence: 0.169 
+
+Priority 4.50 :Privacy: 2 - KL-Divergence: 0.234 
+
+Priority 5.00 :Privacy: 2 - KL-Divergence: 0.196 
+
+
+--------------------------
+Test n 1
+Priority 0.00 :Privacy: 2 - KL-Divergence: 0.175 
+
+Priority 0.10 :Privacy: 2 - KL-Divergence: 0.199 
+
+Priority 0.20 :Privacy: 2 - KL-Divergence: 0.158 
+
+Priority 0.30 :Privacy: 2 - KL-Divergence: 0.175 
+
+Priority 0.40 :Privacy: 2 - KL-Divergence: 0.265 
+
+Priority 0.50 :Privacy: 2 - KL-Divergence: 0.281 
+
+Priority 0.60 :Privacy: 2 - KL-Divergence: 0.218 
+
+Priority 0.70 :Privacy: 2 - KL-Divergence: 0.179 
+
+Priority 0.80 :Privacy: 2 - KL-Divergence: 0.208 
+
+Priority 0.90 :Privacy: 2 - KL-Divergence: 0.208 
+
+Priority 1.00 :Privacy: 2 - KL-Divergence: 0.232 
+
+Priority 1.50 :Privacy: 2 - KL-Divergence: 0.261 
+
+Priority 2.00 :Privacy: 2 - KL-Divergence: 0.276 
+
+Priority 2.50 :Privacy: 2 - KL-Divergence: 0.168 
+
+Priority 3.00 :Privacy: 2 - KL-Divergence: 0.197 
+
+Priority 3.50 :Privacy: 2 - KL-Divergence: 0.223 
+
+Priority 4.00 :Privacy: 2 - KL-Divergence: 0.292 
+
+Priority 4.50 :Privacy: 2 - KL-Divergence: 0.183 
+
+Priority 5.00 :Privacy: 2 - KL-Divergence: 0.228 
+
+
+--------------------------
+Test n 2
+Priority 0.00 :Privacy: 2 - KL-Divergence: 0.305 
+
+Priority 0.10 :Privacy: 2 - KL-Divergence: 0.206 
+
+Priority 0.20 :Privacy: 2 - KL-Divergence: 0.213 
+
+Priority 0.30 :Privacy: 2 - KL-Divergence: 0.210 
+
+Priority 0.40 :Privacy: 2 - KL-Divergence: 0.192 
+
+Priority 0.50 :Privacy: 2 - KL-Divergence: 0.152 
+
+Priority 0.60 :Privacy: 2 - KL-Divergence: 0.188 
+
+Priority 0.70 :Privacy: 2 - KL-Divergence: 0.227 
+
+Priority 0.80 :Privacy: 2 - KL-Divergence: 0.237 
+
+Priority 0.90 :Privacy: 2 - KL-Divergence: 0.232 
+
+Priority 1.00 :Privacy: 2 - KL-Divergence: 0.136 
+
+Priority 1.50 :Privacy: 2 - KL-Divergence: 0.237 
+
+Priority 2.00 :Privacy: 2 - KL-Divergence: 0.208 
+
+Priority 2.50 :Privacy: 2 - KL-Divergence: 0.184 
+
+Priority 3.00 :Privacy: 2 - KL-Divergence: 0.184 
+
+Priority 3.50 :Privacy: 2 - KL-Divergence: 0.135 
+
+Priority 4.00 :Privacy: 2 - KL-Divergence: 0.184 
+
+Priority 4.50 :Privacy: 2 - KL-Divergence: 0.212 
+
+Priority 5.00 :Privacy: 2 - KL-Divergence: 0.224 
+
+
+--------------------------
+Test n 3
+Priority 0.00 :Privacy: 2 - KL-Divergence: 0.231 
+
+Priority 0.10 :Privacy: 2 - KL-Divergence: 0.224 
+
+Priority 0.20 :Privacy: 2 - KL-Divergence: 0.187 
+
+Priority 0.30 :Privacy: 2 - KL-Divergence: 0.131 
+
+Priority 0.40 :Privacy: 2 - KL-Divergence: 0.252 
+
+Priority 0.50 :Privacy: 2 - KL-Divergence: 0.169 
+
+Priority 0.60 :Privacy: 2 - KL-Divergence: 0.220 
+
+Priority 0.70 :Privacy: 2 - KL-Divergence: 0.184 
+
+Priority 0.80 :Privacy: 2 - KL-Divergence: 0.187 
+
+Priority 0.90 :Privacy: 2 - KL-Divergence: 0.188 
+
+Priority 1.00 :Privacy: 2 - KL-Divergence: 0.198 
+
+Priority 1.50 :Privacy: 2 - KL-Divergence: 0.212 
+
+Priority 2.00 :Privacy: 2 - KL-Divergence: 0.300 
+
+Priority 2.50 :Privacy: 2 - KL-Divergence: 0.207 
+
+Priority 3.00 :Privacy: 2 - KL-Divergence: 0.205 
+
+Priority 3.50 :Privacy: 2 - KL-Divergence: 0.164 
+
+Priority 4.00 :Privacy: 2 - KL-Divergence: 0.180 
+
+Priority 4.50 :Privacy: 2 - KL-Divergence: 0.121 
+
+Priority 5.00 :Privacy: 2 - KL-Divergence: 0.200 
+
+
+--------------------------
+Test n 4
+Priority 0.00 :Privacy: 2 - KL-Divergence: 0.241 
+
+Priority 0.10 :Privacy: 2 - KL-Divergence: 0.161 
+
+Priority 0.20 :Privacy: 2 - KL-Divergence: 0.238 
+
+Priority 0.30 :Privacy: 2 - KL-Divergence: 0.272 
+
+Priority 0.40 :Privacy: 2 - KL-Divergence: 0.220 
+
+Priority 0.50 :Privacy: 2 - KL-Divergence: 0.126 
+
+Priority 0.60 :Privacy: 2 - KL-Divergence: 0.144 
+
+Priority 0.70 :Privacy: 2 - KL-Divergence: 0.216 
+
+Priority 0.80 :Privacy: 2 - KL-Divergence: 0.193 
+
+Priority 0.90 :Privacy: 2 - KL-Divergence: 0.208 
+
+Priority 1.00 :Privacy: 2 - KL-Divergence: 0.131 
+
+Priority 1.50 :Privacy: 2 - KL-Divergence: 0.262 
+
+Priority 2.00 :Privacy: 2 - KL-Divergence: 0.237 
+
+Priority 2.50 :Privacy: 2 - KL-Divergence: 0.224 
+
+Priority 3.00 :Privacy: 2 - KL-Divergence: 0.171 
+
+Priority 3.50 :Privacy: 2 - KL-Divergence: 0.197 
+
+Priority 4.00 :Privacy: 2 - KL-Divergence: 0.205 
+
+Priority 4.50 :Privacy: 2 - KL-Divergence: 0.217 
+
+Priority 5.00 :Privacy: 2 - KL-Divergence: 0.134 
+
+
+--------------------------
+Test n 5
+Priority 0.00 :Privacy: 2 - KL-Divergence: 0.218 
+
+Priority 0.10 :Privacy: 2 - KL-Divergence: 0.266 
+
+Priority 0.20 :Privacy: 2 - KL-Divergence: 0.220 
+
+Priority 0.30 :Privacy: 2 - KL-Divergence: 0.193 
+
+Priority 0.40 :Privacy: 2 - KL-Divergence: 0.236 
+
+Priority 0.50 :Privacy: 2 - KL-Divergence: 0.179 
+
+Priority 0.60 :Privacy: 2 - KL-Divergence: 0.180 
+
+Priority 0.70 :Privacy: 2 - KL-Divergence: 0.187 
+
+Priority 0.80 :Privacy: 2 - KL-Divergence: 0.262 
+
+Priority 0.90 :Privacy: 2 - KL-Divergence: 0.194 
+
+Priority 1.00 :Privacy: 2 - KL-Divergence: 0.131 
+
+Priority 1.50 :Privacy: 2 - KL-Divergence: 0.268 
+
+Priority 2.00 :Privacy: 2 - KL-Divergence: 0.153 
+
+Priority 2.50 :Privacy: 2 - KL-Divergence: 0.100 
+
+Priority 3.00 :Privacy: 2 - KL-Divergence: 0.170 
+
+Priority 3.50 :Privacy: 2 - KL-Divergence: 0.246 
+
+Priority 4.00 :Privacy: 2 - KL-Divergence: 0.226 
+
+Priority 4.50 :Privacy: 2 - KL-Divergence: 0.305 
+
+Priority 5.00 :Privacy: 2 - KL-Divergence: 0.168 
+
+
+--------------------------
+Test n 6
+Priority 0.00 :Privacy: 2 - KL-Divergence: 0.213 
+
+Priority 0.10 :Privacy: 2 - KL-Divergence: 0.140 
+
+Priority 0.20 :Privacy: 2 - KL-Divergence: 0.188 
+
+Priority 0.30 :Privacy: 2 - KL-Divergence: 0.179 
+
+Priority 0.40 :Privacy: 2 - KL-Divergence: 0.234 
+
+Priority 0.50 :Privacy: 2 - KL-Divergence: 0.293 
+
+Priority 0.60 :Privacy: 2 - KL-Divergence: 0.290 
+
+Priority 0.70 :Privacy: 2 - KL-Divergence: 0.172 
+
+Priority 0.80 :Privacy: 2 - KL-Divergence: 0.174 
+
+Priority 0.90 :Privacy: 2 - KL-Divergence: 0.237 
+
+Priority 1.00 :Privacy: 2 - KL-Divergence: 0.190 
+
+Priority 1.50 :Privacy: 2 - KL-Divergence: 0.241 
+
+Priority 2.00 :Privacy: 2 - KL-Divergence: 0.153 
+
+Priority 2.50 :Privacy: 2 - KL-Divergence: 0.174 
+
+Priority 3.00 :Privacy: 2 - KL-Divergence: 0.160 
+
+Priority 3.50 :Privacy: 2 - KL-Divergence: 0.312 
+
+Priority 4.00 :Privacy: 2 - KL-Divergence: 0.251 
+
+Priority 4.50 :Privacy: 2 - KL-Divergence: 0.217 
+
+Priority 5.00 :Privacy: 2 - KL-Divergence: 0.186 
+
+
+--------------------------
+Test n 7
+Priority 0.00 :Privacy: 2 - KL-Divergence: 0.152 
+
+Priority 0.10 :Privacy: 2 - KL-Divergence: 0.109 
+
+Priority 0.20 :Privacy: 2 - KL-Divergence: 0.150 
+
+Priority 0.30 :Privacy: 2 - KL-Divergence: 0.175 
+
+Priority 0.40 :Privacy: 2 - KL-Divergence: 0.156 
+
+Priority 0.50 :Privacy: 2 - KL-Divergence: 0.216 
+
+Priority 0.60 :Privacy: 2 - KL-Divergence: 0.157 
+
+Priority 0.70 :Privacy: 2 - KL-Divergence: 0.177 
+
+Priority 0.80 :Privacy: 2 - KL-Divergence: 0.153 
+
+Priority 0.90 :Privacy: 2 - KL-Divergence: 0.234 
+
+Priority 1.00 :Privacy: 2 - KL-Divergence: 0.247 
+
+Priority 1.50 :Privacy: 2 - KL-Divergence: 0.278 
+
+Priority 2.00 :Privacy: 2 - KL-Divergence: 0.158 
+
+Priority 2.50 :Privacy: 2 - KL-Divergence: 0.138 
+
+Priority 3.00 :Privacy: 2 - KL-Divergence: 0.183 
+
+Priority 3.50 :Privacy: 2 - KL-Divergence: 0.171 
+
+Priority 4.00 :Privacy: 2 - KL-Divergence: 0.131 
+
+Priority 4.50 :Privacy: 2 - KL-Divergence: 0.156 
+
+Priority 5.00 :Privacy: 2 - KL-Divergence: 0.176 
+
+
+--------------------------
+Test n 8
+Priority 0.00 :Privacy: 2 - KL-Divergence: 0.151 
+
+Priority 0.10 :Privacy: 2 - KL-Divergence: 0.258 
+
+Priority 0.20 :Privacy: 2 - KL-Divergence: 0.151 
+
+Priority 0.30 :Privacy: 2 - KL-Divergence: 0.206 
+
+Priority 0.40 :Privacy: 2 - KL-Divergence: 0.238 
+
+Priority 0.50 :Privacy: 2 - KL-Divergence: 0.179 
+
+Priority 0.60 :Privacy: 2 - KL-Divergence: 0.122 
+
+Priority 0.70 :Privacy: 2 - KL-Divergence: 0.202 
+
+Priority 0.80 :Privacy: 2 - KL-Divergence: 0.120 
+
+Priority 0.90 :Privacy: 2 - KL-Divergence: 0.270 
+
+Priority 1.00 :Privacy: 2 - KL-Divergence: 0.160 
+
+Priority 1.50 :Privacy: 2 - KL-Divergence: 0.251 
+
+Priority 2.00 :Privacy: 2 - KL-Divergence: 0.153 
+
+Priority 2.50 :Privacy: 2 - KL-Divergence: 0.210 
+
+Priority 3.00 :Privacy: 2 - KL-Divergence: 0.213 
+
+Priority 3.50 :Privacy: 2 - KL-Divergence: 0.205 
+
+Priority 4.00 :Privacy: 2 - KL-Divergence: 0.201 
+
+Priority 4.50 :Privacy: 2 - KL-Divergence: 0.223 
+
+Priority 5.00 :Privacy: 2 - KL-Divergence: 0.149 
+
+
+--------------------------
+Test n 9
+Priority 0.00 :Privacy: 2 - KL-Divergence: 0.122 
+
+Priority 0.10 :Privacy: 2 - KL-Divergence: 0.250 
+
+Priority 0.20 :Privacy: 2 - KL-Divergence: 0.117 
+
+Priority 0.30 :Privacy: 2 - KL-Divergence: 0.249 
+
+Priority 0.40 :Privacy: 2 - KL-Divergence: 0.291 
+
+Priority 0.50 :Privacy: 2 - KL-Divergence: 0.232 
+
+Priority 0.60 :Privacy: 2 - KL-Divergence: 0.180 
+
+Priority 0.70 :Privacy: 2 - KL-Divergence: 0.267 
+
+Priority 0.80 :Privacy: 2 - KL-Divergence: 0.273 
+
+Priority 0.90 :Privacy: 2 - KL-Divergence: 0.218 
+
+Priority 1.00 :Privacy: 2 - KL-Divergence: 0.178 
+
+Priority 1.50 :Privacy: 2 - KL-Divergence: 0.213 
+
+Priority 2.00 :Privacy: 2 - KL-Divergence: 0.207 
+
+Priority 2.50 :Privacy: 2 - KL-Divergence: 0.180 
+
+Priority 3.00 :Privacy: 2 - KL-Divergence: 0.238 
+
+Priority 3.50 :Privacy: 2 - KL-Divergence: 0.201 
+
+Priority 4.00 :Privacy: 2 - KL-Divergence: 0.265 
+
+Priority 4.50 :Privacy: 2 - KL-Divergence: 0.306 
+
+Priority 5.00 :Privacy: 2 - KL-Divergence: 0.193 
+
+
+--------------------------
+
+-------------VALORI MEDI-------------
+Priorità: 0.00 KL medio: 0.21
+Priorità: 0.10 KL medio: 0.20
+Priorità: 0.20 KL medio: 0.19
+Priorità: 0.30 KL medio: 0.20
+Priorità: 0.40 KL medio: 0.23
+Priorità: 0.50 KL medio: 0.21
+Priorità: 0.60 KL medio: 0.19
+Priorità: 0.70 KL medio: 0.21
+Priorità: 0.80 KL medio: 0.20
+Priorità: 0.90 KL medio: 0.22
+Priorità: 1.00 KL medio: 0.18
+Priorità: 1.50 KL medio: 0.24
+Priorità: 2.00 KL medio: 0.20
+Priorità: 2.50 KL medio: 0.18
+Priorità: 3.00 KL medio: 0.19
+Priorità: 3.50 KL medio: 0.20
+Priorità: 4.00 KL medio: 0.21
+Priorità: 4.50 KL medio: 0.22
+Priorità: 5.00 KL medio: 0.19

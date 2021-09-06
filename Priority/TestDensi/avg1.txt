@@ -1,0 +1,84 @@
+
+Valori Medi Dataset 0 con densita' 0.20
+Priorit�: 0.00 KL medio: 0.21
+Priorit�: 0.10 KL medio: 0.18
+Priorit�: 0.20 KL medio: 0.18
+Priorit�: 0.30 KL medio: 0.17
+Priorit�: 0.40 KL medio: 0.17
+Priorit�: 0.50 KL medio: 0.20
+Priorit�: 0.60 KL medio: 0.21
+Priorit�: 0.70 KL medio: 0.18
+Priorit�: 0.80 KL medio: 0.19
+Priorit�: 0.90 KL medio: 0.16
+Priorit�: 1.00 KL medio: 0.19
+Priorit�: 1.50 KL medio: 0.18
+Priorit�: 2.00 KL medio: 0.19
+Priorit�: 2.50 KL medio: 0.17
+Priorit�: 3.00 KL medio: 0.19
+Priorit�: 3.50 KL medio: 0.15
+Priorit�: 4.00 KL medio: 0.17
+Priorit�: 4.50 KL medio: 0.19
+Priorit�: 5.00 KL medio: 0.15
+
+Valori Medi Dataset 1 con densita' 0.30
+Priorit�: 0.00 KL medio: 0.21
+Priorit�: 0.10 KL medio: 0.20
+Priorit�: 0.20 KL medio: 0.19
+Priorit�: 0.30 KL medio: 0.20
+Priorit�: 0.40 KL medio: 0.23
+Priorit�: 0.50 KL medio: 0.21
+Priorit�: 0.60 KL medio: 0.19
+Priorit�: 0.70 KL medio: 0.21
+Priorit�: 0.80 KL medio: 0.20
+Priorit�: 0.90 KL medio: 0.22
+Priorit�: 1.00 KL medio: 0.18
+Priorit�: 1.50 KL medio: 0.24
+Priorit�: 2.00 KL medio: 0.20
+Priorit�: 2.50 KL medio: 0.18
+Priorit�: 3.00 KL medio: 0.19
+Priorit�: 3.50 KL medio: 0.20
+Priorit�: 4.00 KL medio: 0.21
+Priorit�: 4.50 KL medio: 0.22
+Priorit�: 5.00 KL medio: 0.19
+
+Valori Medi Dataset 2 con densita' 0.40
+Priorit�: 0.00 KL medio: 0.20
+Priorit�: 0.10 KL medio: 0.19
+Priorit�: 0.20 KL medio: 0.22
+Priorit�: 0.30 KL medio: 0.20
+Priorit�: 0.40 KL medio: 0.18
+Priorit�: 0.50 KL medio: 0.20
+Priorit�: 0.60 KL medio: 0.19
+Priorit�: 0.70 KL medio: 0.24
+Priorit�: 0.80 KL medio: 0.17
+Priorit�: 0.90 KL medio: 0.23
+Priorit�: 1.00 KL medio: 0.19
+Priorit�: 1.50 KL medio: 0.21
+Priorit�: 2.00 KL medio: 0.23
+Priorit�: 2.50 KL medio: 0.20
+Priorit�: 3.00 KL medio: 0.17
+Priorit�: 3.50 KL medio: 0.18
+Priorit�: 4.00 KL medio: 0.20
+Priorit�: 4.50 KL medio: 0.21
+Priorit�: 5.00 KL medio: 0.18
+
+Valori Medi Dataset 3 con densita' 0.45
+Priorit�: 0.00 KL medio: 0.23
+Priorit�: 0.10 KL medio: 0.20
+Priorit�: 0.20 KL medio: 0.22
+Priorit�: 0.30 KL medio: 0.26
+Priorit�: 0.40 KL medio: 0.19
+Priorit�: 0.50 KL medio: 0.19
+Priorit�: 0.60 KL medio: 0.15
+Priorit�: 0.70 KL medio: 0.22
+Priorit�: 0.80 KL medio: 0.23
+Priorit�: 0.90 KL medio: 0.24
+Priorit�: 1.00 KL medio: 0.16
+Priorit�: 1.50 KL medio: 0.18
+Priorit�: 2.00 KL medio: 0.21
+Priorit�: 2.50 KL medio: 0.16
+Priorit�: 3.00 KL medio: 0.23
+Priorit�: 3.50 KL medio: 0.19
+Priorit�: 4.00 KL medio: 0.20
+Priorit�: 4.50 KL medio: 0.18
+Priorit�: 5.00 KL medio: 0.20

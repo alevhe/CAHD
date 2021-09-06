@@ -1,0 +1,117 @@
+Metadata-Version: 2.1
+Name: wotpy
+Version: 0.14.4
+Summary: Python implementation of a W3C WoT Runtime and the WoT Scripting API
+Home-page: https://github.com/agmangas/wot-py
+Author: Andres Garcia Mangas
+Author-email: andres.garcia@fundacionctic.org
+License: UNKNOWN
+Keywords: wot iot gateway fog w3c
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+Requires-Dist: tornado (<6.0,>=5.1)
+Requires-Dist: jsonschema (<3.0,>=2.0)
+Requires-Dist: six (<2.0,>=1.10.0)
+Requires-Dist: rx (<2.0,>=1.6.0)
+Requires-Dist: python-slugify (<2.0,>=1.2.4)
+Requires-Dist: aiocoap[linkheader] (==0.4a1)
+Requires-Dist: hbmqtt (<1.0,>=0.9.4)
+Requires-Dist: zeroconf (<0.22.0,>=0.21.3)
+Provides-Extra: tests
+Requires-Dist: pytest (<4.0.0,>=3.6.1) ; extra == 'tests'
+Requires-Dist: pytest-cov (<2.6.0,>=2.5.1) ; extra == 'tests'
+Requires-Dist: pytest-rerunfailures (<5.0,>=4.1) ; extra == 'tests'
+Requires-Dist: mock (<3.0,>=2.0) ; extra == 'tests'
+Requires-Dist: tox (<3.0,>=2.0) ; extra == 'tests'
+Requires-Dist: faker (<0.9,>=0.8.15) ; extra == 'tests'
+Requires-Dist: Sphinx (<2.0.0,>=1.7.5) ; extra == 'tests'
+Requires-Dist: sphinx-rtd-theme (<0.5.0,>=0.4.0) ; extra == 'tests'
+Requires-Dist: futures (<4.0.0,>=3.1.1) ; extra == 'tests'
+Requires-Dist: pyOpenSSL (<19.0.0,>=18.0.0) ; extra == 'tests'
+Requires-Dist: python-coveralls (==2.9.1) ; extra == 'tests'
+Requires-Dist: coverage (==4.0.3) ; extra == 'tests'
+Requires-Dist: aiozeroconf (==0.1.8) ; extra == 'tests'
+Provides-Extra: uvloop
+Requires-Dist: uvloop (<0.13.0,>=0.12.2) ; extra == 'uvloop'
+
+# WoTPy
+
+[![Build Status](https://travis-ci.org/agmangas/wot-py.svg?branch=develop)](https://travis-ci.org/agmangas/wot-py) [![Coverage Status](https://coveralls.io/repos/github/agmangas/wot-py/badge.svg?branch=develop)](https://coveralls.io/github/agmangas/wot-py?branch=develop)
+
+## Introduction
+
+WoTPy is an experimental implementation of a [W3C WoT Runtime](https://github.com/w3c/wot-architecture/blob/master/proposals/terminology.md#wot-runtime) and the [W3C WoT Scripting API](https://github.com/w3c/wot-architecture/blob/master/proposals/terminology.md#scripting-api) in Python.
+
+Inspired by the exploratory implementations located in the [thingweb GitHub page](https://github.com/thingweb).
+
+## Features
+
+* Supports Python 2.7, 3.6 and 3.7.
+* Fully-implemented `WoT` interface.
+* Multicast discovery based on mDNS.
+* Asynchronous I/O programming model based on coroutines.
+* Multiple client and server [Protocol Binding](https://github.com/w3c/wot-architecture/blob/master/proposals/terminology.md#protocol-binding) implementations. 
+
+### Feature support matrix
+
+| Feature            | Python 2.7               | Python 3           | Implementation based on                                                 |
+|-------------------:|--------------------------|--------------------|-------------------------------------------------------------------------|
+| HTTP binding       | :heavy_check_mark:       | :heavy_check_mark: | [tornadoweb/tornado](https://github.com/tornadoweb/tornado)             |
+| WebSockets binding | :heavy_check_mark:       | :heavy_check_mark: | [tornadoweb/tornado](https://github.com/tornadoweb/tornado)             |
+| CoAP binding       | :heavy_multiplication_x: | :heavy_check_mark: | [chrysn/aiocoap](https://github.com/chrysn/aiocoap)                     |
+| MQTT binding       | :heavy_multiplication_x: | :heavy_check_mark: | [beerfactory/hbmqtt](https://github.com/beerfactory/hbmqtt)             |
+| mDNS discovery     | :heavy_multiplication_x: | :heavy_check_mark: | [jstasiak/python-zeroconf](https://github.com/jstasiak/python-zeroconf) |
+
+## Couroutine APIs
+
+WoTPy is based on the [Tornado Framework](https://www.tornadoweb.org). Users therefore have two different API options to write code based on coroutines: 
+
+* Users on **Python 3** may use the native [asyncio](https://docs.python.org/3/library/asyncio.html) module. This is, in fact, the recommended approach. It should be noted that Tornado on Python 3 acts basically [as a wrapper](https://www.tornadoweb.org/en/stable/asyncio.html) around `asyncio`.
+* Users on **Python 2.7** are restricted to writing [Tornado coroutines](https://www.tornadoweb.org/en/stable/guide/coroutines.html) (`asyncio` is not available on Python 2.7).
+
+## ToDo
+
+* Add missing sections to docs and deploy on a public site.
+* Subscription to Thing Description changes.
+* Validation of data schemas.
+* Enable Action handlers to return Observables.
+* Update protocol bindings to accept event subscription and cancellation data.
+
+## Installation
+
+```
+pip install wotpy
+```
+
+### Development
+
+To install in development mode with all the test dependencies:
+
+```
+pip install -U -e .[tests]
+```
+
+To run the tests in all supported environments:
+
+```
+WOTPY_TESTS_MQTT_BROKER_URL=mqtt://broker-url tox
+```
+
+## Docs
+
+Move to the `docs` folder and run:
+
+```
+make html
+```
+
+If you attempt to build the docs on a non-Linux platform or with Python 2.7 `_autosummary` will complain about being unable to import the unsupported modules (e.g. MQTT on Python 2.7). In this case the docs will be missing the sections regarding unsupported features.
+
